@@ -1,0 +1,44 @@
+.onOff {
+    padding: 20px;
+    margin: 30px;
+}
+.on1 {
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: 5px;
+}
+.off1 {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: 5px;
+}
+.alarm1 {
+    background-color: aqua;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+.on2 {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: 5px;
+}
+.off2 {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: 5px;
+}
+.alarm2 {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
