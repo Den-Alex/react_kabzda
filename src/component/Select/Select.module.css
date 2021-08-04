@@ -11,3 +11,7 @@
     border: 1px solid black;
 
 }
+.item.selected {
+    background-color: aqua;
+    color: white;
+}
